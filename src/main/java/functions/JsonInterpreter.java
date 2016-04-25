@@ -1,19 +1,19 @@
 
 /*   
-  	This file is part of JSON Conversion.
+  	This file is part of JSON Conversion and JSON Web Framework.
 
-    JSON Conversion is free software: you can redistribute it and/or modify
+    JSON Conversion and JSON Web Framework is free software: you can redistribute it and/or modify
     it under the terms of the GNU Lesser General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    JSON Conversion is distributed in the hope that it will be useful,
+    JSON Conversion and JSON Web Framework is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU Lesser General Public License for more details.
 
     You should have received a copy of the GNU Lesser General Public License
-    along with JSON Conversion.  If not, see <http://www.gnu.org/licenses/>.
+    along with JSON Conversion and JSON Web Framework.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 package functions;
